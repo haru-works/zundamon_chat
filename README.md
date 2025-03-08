@@ -1,8 +1,11 @@
 # zundamon_chat
+
 🫛ずんだもん ちゃっと with Zundamon Speech
-このリポジトリは、[Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のWebUIを改造して
-AIずんだもんと音声チャットができるようにしたプログラムです。
-下記の技術を使っています。
+
+このリポジトリは、[Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のWebUIを改造してAIずんだもんと音声チャットができるようにしたプログラムです。
+
+
+## 下記の技術を使っています。
 
 - [Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のWebUIを改造して
 - LLM：[Google Gemini](https://ai.google.dev/gemini-api/docs?hl=ja)
