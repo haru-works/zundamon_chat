@@ -1,5 +1,5 @@
 # zundamon_chat
-ずんだもんちゃっと
+🫛ずんだもん ちゃっと with Zundamon Speech
 
 ## 環境構築
 - 1.まずオリジナルのZundamon Speech WebUIを動くようにします
