@@ -12,6 +12,7 @@
   ![image](https://github.com/user-attachments/assets/e188dbc4-e2bb-45ff-bd32-6f085ba41309)
 
 - 3.Google GeminiのAPIキーを取得します
+  
   ※GeminiのAPIキー取得方法は、https://ai.google.dev/gemini-api/docs?hl=ja からやってね
 
 - 4.カレントディレクトリに.envを作って、下の環境変数を追加します。
@@ -36,5 +37,6 @@
   ```
 
 -7. 成功したらこんな感じでうごきます
+
   https://github.com/user-attachments/assets/e4cbb815-fa4a-43c1-8c38-fa3891da5337
 
