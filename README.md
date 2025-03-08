@@ -6,10 +6,8 @@
   下記のページを参考に構築してね
   https://github.com/zunzun999/zundamon-speech-webui
 
-- 2. このページからzundamon_webui.pyをダウンロードして、GPT-SoVITSフォルダ配下のzundamon_webui.pyと差し替えます。
-     上書きすると戻せないから、前のzundamon_webui.pyは名前変えたりしてね。
+- 2.このページからzundamon_webui.pyをダウンロードして、GPT-SoVITSフォルダ配下のzundamon_webui.pyと差し替えます。上書きすると戻せないから、前のzundamon_webui.pyは名前変えたりしてね。
 ![image](https://github.com/user-attachments/assets/e188dbc4-e2bb-45ff-bd32-6f085ba41309)
-
 
 - 3.Google GeminiのAPIキーを取得します
 ※GeminiのAPIキー取得方法は、https://ai.google.dev/gemini-api/docs?hl=ja からやってね
