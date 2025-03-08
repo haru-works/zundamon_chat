@@ -1,11 +1,22 @@
 # zundamon_chat
 🫛ずんだもん ちゃっと with Zundamon Speech
+このリポジトリは、[Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のWebUIを改造して
+AIずんだもんと音声チャットができるようにしたプログラムです。
+下記の技術を使っています。
+
+- [Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のWebUIを改造して
+- LLM：[Google Gemini](https://ai.google.dev/gemini-api/docs?hl=ja)
+- LLMフレームワーク：[langchain](https://www.langchain.com/)
+- UIフレームワーク：[streamlit](https://streamlit.io/)
+- streamlitで音声読み上げする技術の参考資料：[【開発】StreamlitでGeminiを使用したアバター音声対話＆VQAアプリ作ってみた](https://qiita.com/Yuhei0531/items/db894a8fba9c671eb7b0)
+- 文章を文節にする技術1：[ja-sentence-segmenter](https://github.com/wwwcojp/ja_sentence_segmenter)
+- 文章を文節にする技術2：[sentence-segmenter](https://github.com/mediacloud/sentence-splitter)
 
 ## 環境構築
 - 1.まずオリジナルのZundamon Speech WebUIを動くようにします
   
-  下記のページを参考に構築してね
-  https://github.com/zunzun999/zundamon-speech-webui
+  下記のページを参考にして構築してね
+  [Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)
 
 - 2.このページからzundamon_webui.pyをダウンロードして、GPT-SoVITSフォルダ配下のzundamon_webui.pyと差し替えます。
   
@@ -15,7 +26,7 @@
 
 - 3.Google GeminiのAPIキーを取得します
   
-  ※GeminiのAPIキー取得方法は、https://ai.google.dev/gemini-api/docs?hl=ja からやってね
+  ※GeminiのAPIキー取得方法は、[Google Gemini](https://ai.google.dev/gemini-api/docs?hl=ja)からやってね
 
 - 4.カレントディレクトリに.envを作って、下の環境変数を追加します。
   ```bash
