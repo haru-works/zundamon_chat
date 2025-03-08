@@ -7,7 +7,7 @@
 
 ## 下記の技術を使っています。
 
-- [Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のWebUIを改造して
+- [Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)
 - LLM：[Google Gemini](https://ai.google.dev/gemini-api/docs?hl=ja)
 - LLMフレームワーク：[langchain](https://www.langchain.com/)
 - UIフレームワーク：[streamlit](https://streamlit.io/)
