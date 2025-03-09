@@ -58,3 +58,18 @@
 
   https://github.com/user-attachments/assets/e4cbb815-fa4a-43c1-8c38-fa3891da5337
 
+
+# ライセンス情報
+このソフトウェアには、次のオープンソースソフトウェアが含まれています。
+
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) (MIT License)
+- [GPT-SoVITS Pretrained Models](https://huggingface.co/lj1995/GPT-SoVITS) (MIT License)
+- [G2PW Model](https://github.com/GitYCC/g2pW) (Apache 2.0 License)
+- [UVR5 (Voice Cleaning)](https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main/uvr5_weights) (MIT License)
+- [Faster Whisper Large V3](https://huggingface.co/Systran/faster-whisper-large-v3) (MIT License)
+  
+これらは、それぞれのライセンス条項に基づいて提供されます。
+
+Zundamon Voiceモデルのライセンスは次のとおりです 
+
+https://zunko.jp/con_ongen_kiyaku.html
