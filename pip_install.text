@@ -1,0 +1,4 @@
+pip install pydantic
+pip install langchain_google_genai
+pip install ja_sentence_segmenter
+pip install sentence_splitter
