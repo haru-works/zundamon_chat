@@ -2,9 +2,7 @@
 
 このリポジトリは、[Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のWebUIを改造してAIずんだもんと音声チャットを試せるプログラムです。
 
-- 東北ずん子、ずんだもんの公式サイト
-
-公式サイト:https://zunko.jp/
+東北ずん子、ずんだもんの公式サイト:https://zunko.jp/
 
 ## 下記の技術を使っています。
 
