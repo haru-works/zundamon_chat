@@ -15,9 +15,9 @@
 - 文章を文節にする技術2：[sentence-segmenter](https://github.com/mediacloud/sentence-splitter)
 
 ## 環境構築
-- 1.まずオリジナルのZundamon Speech WebUIを動くようにします
+- 1.まずオリジナルのZundamon Speech WebUIを動くようにします。
   
-  [Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のGithubページを参考にして構築してね
+  [Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のGithubページを参考にして構築してください。
 
 - 2.このページからzundamon_webui.pyをダウンロードして、GPT-SoVITSフォルダ配下のzundamon_webui.pyと差し替えます。
   
@@ -25,9 +25,10 @@
   
   ![image](https://github.com/user-attachments/assets/e188dbc4-e2bb-45ff-bd32-6f085ba41309)
 
-- 3.Google GeminiのAPIキーを取得します
+- 3.Google GeminiのAPIキーを取得します。
   
-  ※GeminiのAPIキー取得方法は、[Google Gemini](https://ai.google.dev/gemini-api/docs?hl=ja)からやってね
+  ※GeminiのAPIキー取得方法は、[Google Gemini](https://ai.google.dev/gemini-api/docs?hl=ja)から取得してください。
+  ※Geminiは、Gmailを持っている人であれば無料枠で利用可能です。
 
 - 4.カレントディレクトリに.envを作って、下の環境変数を追加します。
   ```bash
@@ -45,12 +46,12 @@
   pip install sentence_splitter
   ```
 
--6. カレントディレクトリに移動して実行する
+-6. カレントディレクトリに移動して実行します。
   ```bash
   python zundamon_speech_run.py
   ```
 
--7. 成功したらこんな感じでうごきます
+-7. こんな感じで表示が出たら成功です。
 
   https://github.com/user-attachments/assets/e4cbb815-fa4a-43c1-8c38-fa3891da5337
 
@@ -66,6 +67,6 @@
   
 これらは、それぞれのライセンス条項に基づいて提供されます。
 
-Zundamon Voiceモデルのライセンスは次のとおりです 
+Zundamon Voiceモデルのライセンスは次のとおりです。
 
 https://zunko.jp/con_ongen_kiyaku.html
