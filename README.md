@@ -29,7 +29,7 @@
   
   ※GeminiのAPIキー取得方法は、[Google Gemini](https://ai.google.dev/gemini-api/docs?hl=ja)から取得してください。
   
-  Geminiは、Gmailを持っている人であれば無料枠で利用可能です。
+  　Geminiは、Gmailを持っている人であれば無料枠で利用可能です。
 
 - 4.カレントディレクトリに.envを作って、下の環境変数を追加します。
   ```bash
@@ -39,7 +39,7 @@
 
   ![image](https://github.com/user-attachments/assets/87fefa6f-fa3b-490a-baef-3e77f272a9df)
 
--5. pythonの追加ライブラリをインストールします。
+- 5.pythonの追加ライブラリをインストールします。
   ```bash
   pip install pydantic
   pip install langchain_google_genai
@@ -47,12 +47,12 @@
   pip install sentence_splitter
   ```
 
--6. カレントディレクトリに移動して実行します。
+- 6.カレントディレクトリに移動して実行します。
   ```bash
   python zundamon_speech_run.py
   ```
 
--7. こんな感じで表示が出たら成功です。
+- 7.こんな感じで表示が出たら成功です。
 
   https://github.com/user-attachments/assets/e4cbb815-fa4a-43c1-8c38-fa3891da5337
 
