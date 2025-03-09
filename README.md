@@ -17,9 +17,7 @@
 ## 環境構築
 - 1.まずオリジナルのZundamon Speech WebUIを動くようにします
   
-　Zundamon Speech WebUIのGithubページを参考にして構築してね
- 
-  [Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)
+　[Zundamon Speech WebUI](https://github.com/zunzun999/zundamon-speech-webui)のGithubページを参考にして構築してね
 
 - 2.このページからzundamon_webui.pyをダウンロードして、GPT-SoVITSフォルダ配下のzundamon_webui.pyと差し替えます。
   
