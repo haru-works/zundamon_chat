@@ -28,7 +28,8 @@
 - 3.Google GeminiのAPIキーを取得します。
   
   ※GeminiのAPIキー取得方法は、[Google Gemini](https://ai.google.dev/gemini-api/docs?hl=ja)から取得してください。
-  ※Geminiは、Gmailを持っている人であれば無料枠で利用可能です。
+  
+  Geminiは、Gmailを持っている人であれば無料枠で利用可能です。
 
 - 4.カレントディレクトリに.envを作って、下の環境変数を追加します。
   ```bash
